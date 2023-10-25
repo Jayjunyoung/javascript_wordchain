@@ -3,7 +3,8 @@
 
 # - 개발 목적 -
 
-react, next에 기반이 되는 javascript를 복기하고자 해당 레포 수행 
+1. react, next에 기반이 되는 javascript를 복기하고자 해당 레포 수행
+2. 프로그래밍 사고력 향상 
 
 # - 참고 서적 -
 
